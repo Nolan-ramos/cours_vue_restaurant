@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "coucou@hibou.com",
+      "password": "coucouhibou",
+      "name": "coucou",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "burger king",
+      "address": "311 rue maria montessori",
+      "contact": 613894062,
+      "id": 1
+    }
+  ]
+}
